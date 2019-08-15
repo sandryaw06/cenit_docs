@@ -1,5 +1,3 @@
-![logo](_media/logo.png)
-
 # Cenit io
 
 > The perfect tool to help you out.
