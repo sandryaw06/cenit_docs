@@ -7,11 +7,11 @@
     "email": "cinwell.li@gmail.com",
     "url": "https://github.com/QingWei-Li"
   },
-  "homepage": "https://docsify.js.org",
+  "homepage": "https://sandryaw06.github.io/cenit_docs",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/docsifyjs/docsify.git"
+    "url": "git+https://github.com/sandryaw06/cenit_docs.git"
   },
   "main": "lib/docsify.js",
   "unpkg": "lib/docsify.min.js",
@@ -75,11 +75,11 @@
     "stylus": "^0.54.5"
   },
   "keywords": [
+    "cenit",
+    "cenit.io",
     "doc",
     "docs",
-    "documentation",
-    "creator",
-    "generator"
+    "documentation"
   ],
   "collective": {
     "type": "opencollective",

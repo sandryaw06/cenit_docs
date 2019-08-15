@@ -21,7 +21,7 @@ if (isSSR) {
   </body>
   </html>`,
     config: {
-      name: 'docsify',
+      name: 'cenit io documentation',
       repo: 'docsifyjs/docsify',
       basePath: 'https://docsify.js.org/',
       loadNavbar: true,
